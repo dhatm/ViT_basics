@@ -1,5 +1,5 @@
 # ViT_basics
-Explores vision transformer basics, including using pretrained models, finetuning, etc.
+This repo explores and demos vision transformer basics, including using pretrained models, finetuning, etc.
 
 ## notebooks
 1. vit_load_n_eval_google_model.ipynb -- loads google's pretrained vision transformer model (from link #2 below) and evaluates performance on microsoft/kaggle's cats and dogs dataset, and also on a set of family & friend cat and dog photos
